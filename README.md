@@ -11,6 +11,7 @@ You only need to type in the id of the novel(nxxxxx in the url) then it will do 
 ## Notes
 1. You may consider add an proxy or set the threads less, in order to avoid being blocked by the website.
 2. R18 novels have a different link format, so there's two files.
+3. There's another new version to get the excite translate of the novel.
 
 
 # 中文
@@ -26,3 +27,4 @@ You only need to type in the id of the novel(nxxxxx in the url) then it will do 
 ## 注意事项
 1. 你可能需要设置一个代理，或调低线程数，以免被网站封禁。
 2. R18小说有特殊的链接构造故而制作了独立版本。
+3. 新增加EAT专版抓取小说的Excite机器翻译。
