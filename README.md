@@ -1,3 +1,9 @@
+# No longer update
+
+This program will no longer be updated. Consider responsity below which uses python's new way to process page fetch requests.
+https://github.com/tongyuantongyu/WebNovelCrawler
+
+
 # English
 
 ## Syosetsu-EPUB-Maker
